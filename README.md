@@ -1,2 +1,2 @@
-# snp-website
+# snp-戰隊網站
 競爭者狙擊戰隊
